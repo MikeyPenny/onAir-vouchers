@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "javascript.format.semicolons": "insert",
+    "prettier.arrowParens": "avoid",
+    "prettier.jsxSingleQuote": true
+}
